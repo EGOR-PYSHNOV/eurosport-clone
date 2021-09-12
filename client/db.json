@@ -1,0 +1,100 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "image": "/client/public/images/article-img.jpg",
+      "title": "MANCHESTER UNITED AGREED OFFICIALLY ABOUT THE TRANSFER OF REAL DEFENDER RAPHAEL VARAN 1",
+      "description": "World champion Rafael Varane will leave Real Madrid after 10 years. The French defender won three Spanish championships and four Champions League in Madrid and went for a new challenge.",
+      "text": "Manchester United have officially agreed to transfer Rafael Varane.We are pleased to announce that the club has reached an agreement with Real Madrid on the transfer of Varane. The player will sign the contract after the medical examination Earlier, the media reported that for the 28-year-old football player, Manchester United will pay from 40 to 50 million euros. Varane is expected to earn 12 million euros per season at Old Trafford.",
+      "hot": false,
+      "views": 256,
+      "slug": "varan-in-mu",
+      "created": "среда, 28 июля 2021 г. 18:31",
+      "updated": "среда, 28 июля 2021 г. 18:41",
+      "category_id": "1"
+    },
+    {
+      "id": "2",
+      "image": "/client/public/images/article-img.jpg",
+      "title": "MANCHESTER UNITED AGREED OFFICIALLY ABOUT THE TRANSFER OF REAL DEFENDER RAPHAEL VARAN 2",
+      "description": "World champion Rafael Varane will leave Real Madrid after 10 years. The French defender won three Spanish championships and four Champions League in Madrid and went for a new challenge.",
+      "text": "Manchester United have officially agreed to transfer Rafael Varane.We are pleased to announce that the club has reached an agreement with Real Madrid on the transfer of Varane. The player will sign the contract after the medical examination Earlier, the media reported that for the 28-year-old football player, Manchester United will pay from 40 to 50 million euros. Varane is expected to earn 12 million euros per season at Old Trafford.",
+      "hot": false,
+      "views": 121,
+      "slug": "varan-in-mu",
+      "created": "среда, 28 июля 2021 г. 18:31",
+      "updated": "среда, 28 июля 2021 г. 18:41",
+      "category_id": "1"
+    },
+    {
+      "id": "3",
+      "image": "/client/public/images/article-img.jpg",
+      "title": "MANCHESTER UNITED AGREED OFFICIALLY ABOUT THE TRANSFER OF REAL DEFENDER RAPHAEL VARAN 4",
+      "description": "World champion Rafael Varane will leave Real Madrid after 10 years. The French defender won three Spanish championships and four Champions League in Madrid and went for a new challenge.",
+      "text": "Manchester United have officially agreed to transfer Rafael Varane.We are pleased to announce that the club has reached an agreement with Real Madrid on the transfer of Varane. The player will sign the contract after the medical examination Earlier, the media reported that for the 28-year-old football player, Manchester United will pay from 40 to 50 million euros. Varane is expected to earn 12 million euros per season at Old Trafford.",
+      "hot": false,
+      "views": 115,
+      "slug": "varan-in-mu",
+      "created": "среда, 28 июля 2021 г. 18:31",
+      "updated": "среда, 28 июля 2021 г. 18:41",
+      "category_id": "1"
+    },
+    {
+      "id": "4",
+      "image": "/client/public/images/article-img.jpg 3",
+      "title": "MANCHESTER UNITED AGREED OFFICIALLY ABOUT THE TRANSFER OF REAL DEFENDER RAPHAEL VARAN",
+      "description": "World champion Rafael Varane will leave Real Madrid after 10 years. The French defender won three Spanish championships and four Champions League in Madrid and went for a new challenge.",
+      "text": "Manchester United have officially agreed to transfer Rafael Varane.We are pleased to announce that the club has reached an agreement with Real Madrid on the transfer of Varane. The player will sign the contract after the medical examination Earlier, the media reported that for the 28-year-old football player, Manchester United will pay from 40 to 50 million euros. Varane is expected to earn 12 million euros per season at Old Trafford.",
+      "hot": false,
+      "views": 120,
+      "slug": "varan-in-mu",
+      "created": "среда, 28 июля 2021 г. 18:31",
+      "updated": "среда, 28 июля 2021 г. 18:41",
+      "category_id": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "football",
+      "description": "Football news and videos",
+      "slug": "football",
+      "order": "2"
+    },
+    {
+      "id": 2,
+      "title": "hockey",
+      "description": "Hockey news and videos",
+      "slug": "hockey",
+      "order": "1"
+    },
+    {
+      "id": 3,
+      "title": "tennis",
+      "description": "Tennis news and videos",
+      "slug": "tennis",
+      "order": "3"
+    },
+    {
+      "id": 4,
+      "title": "mma",
+      "description": "Mma news and videos",
+      "slug": "mma",
+      "order": "4"
+    },
+    {
+      "id": 5,
+      "title": "basketball",
+      "description": "Basketball news and videos",
+      "slug": "basketball",
+      "order": "5"
+    },
+    {
+      "id": 6,
+      "title": "winter sports",
+      "description": "Winter ssports news and videos",
+      "slug": "winter-sports",
+      "order": "6"
+    }
+  ]
+}

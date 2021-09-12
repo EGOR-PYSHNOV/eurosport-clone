@@ -1,0 +1,97 @@
+@import './components/fonts.scss';
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Aeonik';
+  background-color: #000;
+  height: 100%;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  li {
+    list-style-type: none;
+  }
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.black-bg {
+  background-color: #0f0f0f;
+}
+
+.wrapper {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1 1 auto;
+}
+
+.py {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.mb-3 {
+  margin-bottom: 30px !important;
+}
+
+.card-hover {
+  img {
+    transform: scale(1);
+    transition: all 0.2s ease;
+  }
+  &:hover {
+    img {
+      transform: scale(1.06);
+    }
+
+    h3 {
+      text-decoration: underline;
+    }
+  }
+}
+
+.card-overlay {
+  position: relative;
+  &::after {
+    content: '';
+    background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.6));
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 40%;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+.image-container {
+  width: 100%;
+
+  > div {
+    position: unset !important;
+  }
+
+  .image {
+    object-fit: contain;
+    width: 100% !important;
+    position: relative !important;
+    height: unset !important;
+  }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}

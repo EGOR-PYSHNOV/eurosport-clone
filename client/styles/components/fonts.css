@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Aeonik';
+  font-display: swap;
+  src: local("Aeonik"), url(../../public/fonts/Aeonik-Regular.otf) format("opentype");
+}
+
+@font-face {
+  font-family: 'Aeonik';
+  font-weight: 300;
+  font-display: swap;
+  src: local("Aeonik"), url(../../public/fonts/Aeonik-Light.otf) format("opentype");
+}
+/*# sourceMappingURL=fonts.css.map */
